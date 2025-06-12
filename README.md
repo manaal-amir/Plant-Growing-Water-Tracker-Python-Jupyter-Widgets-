@@ -39,7 +39,15 @@ water_plant(b): Increases watering count and updates display when the water butt
 
 reset_plant(b): Resets the watering count and display.  
 
-display(): Shows the buttons and progress in the notebook interface.  
+display(): Shows the buttons and progress in the notebook interface. 
+
+## Output Screenshots  
+![image](https://github.com/user-attachments/assets/6a6c98df-0220-428b-94d5-3a0020606350)  
+![image](https://github.com/user-attachments/assets/dbee7503-c49c-4a2e-9326-57cc70df316c)  
+![image](https://github.com/user-attachments/assets/2de61c9e-318e-4476-b918-e4097fc400bc)  
+
+
+
 
 ## License  
 This project is open-source and free to use.
